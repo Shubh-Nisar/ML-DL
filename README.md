@@ -5,3 +5,4 @@
 * Multiple Linear Regression
 * Polynomial Regression
 * Support Vector Regression
+* Decision Tree Regression
