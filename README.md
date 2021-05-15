@@ -6,3 +6,4 @@
 * Polynomial Regression
 * Support Vector Regression
 * Decision Tree Regression
+* Random Forest Regression
