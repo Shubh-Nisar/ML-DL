@@ -7,3 +7,6 @@
 * Support Vector Regression
 * Decision Tree Regression
 * Random Forest Regression
+
+### Classification
+* Logistic Regression Classification
