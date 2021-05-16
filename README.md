@@ -10,3 +10,4 @@
 
 ### Classification
 * Logistic Regression Classification
+* K-Nearest Neighbour Classification
