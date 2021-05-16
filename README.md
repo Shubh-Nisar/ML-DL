@@ -11,3 +11,4 @@
 ### Classification
 * Logistic Regression Classification
 * K-Nearest Neighbour Classification
+* Support Vector Machine Classification
