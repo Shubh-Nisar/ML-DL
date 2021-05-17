@@ -13,3 +13,4 @@
 * K-Nearest Neighbour Classification
 * Support Vector Machine Classification
 * Kernel SVM Classification
+* Naive Bayes Classification
