@@ -14,3 +14,4 @@
 * Support Vector Machine Classification
 * Kernel SVM Classification
 * Naive Bayes Classification
+* Decision Tree Classification
