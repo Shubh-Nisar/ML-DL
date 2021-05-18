@@ -15,3 +15,4 @@
 * Kernel SVM Classification
 * Naive Bayes Classification
 * Decision Tree Classification
+* Random Forest Classification
