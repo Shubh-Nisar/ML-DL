@@ -19,3 +19,4 @@
 
 ### Clustering
 * K Means Clustering
+* Hierarchial Clustering
