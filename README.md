@@ -20,3 +20,7 @@
 ### Clustering
 * K Means Clustering
 * Hierarchial Clustering
+
+### Associate Rule Learning
+* Apriori
+* Eclat
