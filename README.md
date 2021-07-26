@@ -1,4 +1,4 @@
-# ML
+# Machine Learning
 
 ### Regression
 * Simple Linear Regression
@@ -27,3 +27,7 @@
 
 ### Reinforcement Learning
 * Upper Confidence Bound
+
+# Deep Learning
+* Artificial Neural Network
+* Convolutional Neural Network
