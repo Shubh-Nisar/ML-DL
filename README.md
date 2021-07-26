@@ -24,3 +24,6 @@
 ### Associate Rule Learning
 * Apriori
 * Eclat
+
+### Reinforcement Learning
+* Upper Confidence Bound
